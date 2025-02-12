@@ -1,0 +1,56 @@
+NEW
+Temperature
+298
+Number of KMC 
+3
+Conversion
+100
+Concentration
+20
+Number in Simulation
+100
+Final BigSMILES
+O=C(O)CC{[>][>]CCO[<][<]}CCC(=O)O
+Number of Objects
+1
+Object
+{[>][>]CCO[<][<]}
+Da
+0
+kDa
+0
+DP
+105
+Mo
+0
+b
+0
+
+NEW
+Temperature
+298
+Number of KMC
+3
+Conversion
+100
+Concentration
+20
+Number in Simulation
+100
+Final BigSMILES
+NCCCCC(CCCN)(CC{[>][<]CCO[>][<]}CC(=O)O)CCCCN
+Number of Objects
+1
+Object
+{[>][<]CCO[>][<]}
+Da
+0
+kDa
+0
+DP
+80
+Mo
+0
+b
+0
+

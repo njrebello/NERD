@@ -1,0 +1,27 @@
+Concentration of Molecule 1: 20 mM
+Molecule 1
+20 mM
+100 molecules
+Molecule 2
+20 mM
+100 molecules
+Total A: 300
+Total B: 300
+-----------------KMC Simulation #1--------------------
+Kinetic Monte Carlo for network formation took 0 seconds
+Chain Density (mol/L): 0.0368
+Primary Loop Fraction (# primary loop junctions per junction): 0.07
+Secondary Loop Fraction (# secondary loop junctions per junction): 0.14
+Property Prediction takes 0 seconds
+-----------------KMC Simulation #2--------------------
+Kinetic Monte Carlo for network formation took 0 seconds
+Chain Density (mol/L): 0.0372
+Primary Loop Fraction (# primary loop junctions per junction): 0.06
+Secondary Loop Fraction (# secondary loop junctions per junction): 0.17
+Property Prediction takes 0 seconds
+-----------------KMC Simulation #3--------------------
+Kinetic Monte Carlo for network formation took 0 seconds
+Chain Density (mol/L): 0.0372
+Primary Loop Fraction (# primary loop junctions per junction): 0.04
+Secondary Loop Fraction (# secondary loop junctions per junction): 0.16
+Property Prediction takes 0 seconds
